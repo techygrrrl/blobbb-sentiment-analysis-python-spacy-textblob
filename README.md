@@ -25,3 +25,10 @@ Example output:
 ## More Reading
 
 - https://pythonwife.com/sentimental-analysis-with-spacy
+
+
+## Troubleshooting
+
+If it says something is missing you may need to run this:
+
+    python -m spacy download en_core_web_md
